@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Rybki.PL</title>
+		<link rel="stylesheet" href="style.css">
+	</head>
+	
+<body>
+<style>
+#banner {
+    background-color: #333FFF;      
+    font-family: Arial;
+    padding:15px;
+    height:800px;
+    background-size:100% 100%;
+}
+</style>
+		<div class="banner">
+			<div class="navbar">
+				<img src="logo.png" class="logo">
+					<div id='show_bg_2'>	</div>
+				<ul>
+					<li><a href="japiedziele.html">Główna</a></li>
+					<li><a href="spis_ryb.html">Spis ryb</a></li>
+					<li><a href="news.html">Wiadomości</a></li>
+					<li><a href="lowiska.html">Łowiska</a></li>
+				</ul>
+			</div>
+		</div>
+		
+		
+		spis rybek sam se poszukaj leniuchu
+
+	</body>
+	
+</html>

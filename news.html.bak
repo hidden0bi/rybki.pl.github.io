@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Rybki.PL</title>
+		<link rel="stylesheet" href="style.css">
+	</head>
+	
+<body>
+<style>
+#banner {
+    background-color: #333FFF;      
+    font-family: Arial;
+    padding:15px;
+    height:800px;
+    background-size:100% 100%;
+}
+</style>
+		<div class="banner">
+			<div class="navbar">
+				<img src="logo.png" class="logo">
+					<div id='show_bg_2'>	</div>
+				<ul>
+					<li><a href="japiedziele.html">Główna</a></li>
+					<li><a href="spis_ryb.html">Spis ryb</a></li>
+					<li><a href="news.html">Wiadomości</a></li>
+					<li><a href="lowiska.html">Łowiska</a></li>
+				</ul>
+			</div>
+		</div>
+		
+		<div class="content">
+		
+		Wędkarstwo jako rozrywka, początkowo tylko najbogatszej części społeczeństwa, znane była od tysiącleci. Rzymski poeta Publiusz Owidiusz Naso w poemacie Halieutica (Sztuka rybołówstwa) opisał wędkarskie sposoby łowienia ryb różnych gatunków. W I wieku n.e. o wędkowaniu wspomina też w swoim epigramie Marcus Valerius Martialis, a Claudius Aelianus w swoim dziele De Animalium Natura również zawarł obszerne opisy metod wędkowania.
+
+W średniowieczu zagadnienia wędkowania najpełniej przedstawione są w dziele pt. Księgi Św. Albana, którego jeden rozdział, Traktat o łowieniu ryb na wędkę poświęcony jest nie tylko ówczesnym metodom i technikom łowienia, ale podkreślał także etyczne implikacje wędkarstwa. Ten sposób spędzania wolnego czasu i rozrywki, zaspokajającej naturalne w naturze ludzkiej pragnienie powrotu do łowieckich korzeni, rozwinął się najpełniej wśród społeczeństw gwałtownie industrializującego się zachodniego świata.
+
+Również w polskiej literaturze znajdują się liczne dowody, że „łowy rozrywkowe”, jak nazywał je Leśniewski, nie obce było także naszej bogatszej klasie społecznej i zdobywało licznych zwolenników i naśladowców.
+		<h2><div align="center"><p style="color:red"> WIELKI SZCZUPAK POLSKI </div></p></h1>
+			<div align="center"><img src="CHLOPACEK.jpg"></div>
+			<h2><div align="center"><p style="color:black"> Szczupak 13,00 kg, 115 cm Wędkarstwo | ALEŻ BYDLE! </p></div></h2>
+			
+			<h3><p style="color:black">Relacja wędkarza</p></h3>
+			<h4><p style="color:black">Ależ to była zacięta walka, prawie mnie wciągnał do wody!!!</p></h4>
+
+	</body>
+	
+</html>
